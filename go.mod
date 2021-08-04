@@ -1,4 +1,4 @@
-module kratos-learn
+module github.com/yaosiqi525/kratos-learn
 
 go 1.15
 

@@ -1,9 +1,9 @@
 package server
 
 import (
-	v1 "kratos-learn/api/helloworld/v1"
-	"kratos-learn/internal/conf"
-	"kratos-learn/internal/service"
+	v1 "github.com/yaosiqi525/kratos-learn/api/helloworld/v1"
+	"github.com/yaosiqi525/kratos-learn/internal/conf"
+	"github.com/yaosiqi525/kratos-learn/internal/service"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/middleware/logging"
 	"github.com/go-kratos/kratos/v2/middleware/metrics"

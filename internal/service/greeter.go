@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	v1 "kratos-learn/api/helloworld/v1"
-	"kratos-learn/internal/biz"
+	v1 "github.com/yaosiqi525/kratos-learn/api/helloworld/v1"
+	"github.com/yaosiqi525/kratos-learn/internal/biz"
 	"github.com/go-kratos/kratos/v2/log"
 )
 

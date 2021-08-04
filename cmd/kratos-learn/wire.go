@@ -5,11 +5,11 @@
 package main
 
 import (
-	"kratos-learn/internal/biz"
-	"kratos-learn/internal/conf"
-	"kratos-learn/internal/data"
-	"kratos-learn/internal/server"
-	"kratos-learn/internal/service"
+	"github.com/yaosiqi525/kratos-learn/internal/biz"
+	"github.com/yaosiqi525/kratos-learn/internal/conf"
+	"github.com/yaosiqi525/kratos-learn/internal/data"
+	"github.com/yaosiqi525/kratos-learn/internal/server"
+	"github.com/yaosiqi525/kratos-learn/internal/service"
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/google/wire"

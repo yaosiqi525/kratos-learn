@@ -2,7 +2,7 @@ package data
 
 import (
 	"context"
-	"kratos-learn/internal/biz"
+	"github.com/yaosiqi525/kratos-learn/internal/biz"
 	"github.com/go-kratos/kratos/v2/log"
 )
 
